@@ -1,5 +1,8 @@
 _repo: Sculptured-tombs-of-Hellas_69508
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69508-h/images/cover.jpg
 creator:
   author:
     agent_name: Gardner, Percy
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/51711
     wikipedia: https://en.wikipedia.org/wiki/Percy_Gardner
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69508#Sculptured-tombs-of-Hellas
 gutenberg_issued: '2022-12-09'
 identifiers:
   gutenberg: '69508'
